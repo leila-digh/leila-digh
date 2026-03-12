@@ -1,4 +1,25 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&duration=3000&pause=1000&color=000000&multiline=true&random=true&width=435&lines=Hello%2C+World!+)](https://git.io/typing-svg)
+<h3><img src="https://64.media.tumblr.com/79b303cbd87655b27a456298fc1eac5b/0b2e59bc3709b3f1-04/s75x75_c1/f505adef01c90af5e73fea9cffb6f13bbd38d40f.gif" height="40"/> I'm Leila, I like turning my ideas into code.</h3>
+<br>
+<img src="https://storagespaced.carrd.co/assets/images/gallery01/98493814_original.gif?v=323cd0f2" height="40" width="full"/>
+<br><br>
+
+## Tinkering with:
+  
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,git&theme=light)](https://skillicons.dev)
+
+## Find me on: 
+<a href="https://leilad.dev" target="blank"><img align="center" src="https://svgsilh.com/svg/1873373.svg" alt="leilad.dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dleila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dleila" height="30" width="40" /></a>
+<br>
+<br>
+<br>
+
+---
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leila-digh&show_icons=true&locale=en&layout=compact" alt="leila-digh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leila-digh&" alt="leila-digh" /></p>
+
 
 <!--
 **leila-digh/leila-digh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
